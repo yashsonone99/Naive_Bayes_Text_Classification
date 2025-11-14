@@ -81,22 +81,3 @@ In addition, it applies **sentiment polarity analysis** with **TextBlob** to unc
 📈 **Category Distribution Plot**  
 💬 **Sentiment Distribution by Category**  
 🧩 **Confusion Matrix Heatmap**
-
----
-
-## 🚀 Future Improvements  
-- Experiment with **BERT or LSTM** for deeper contextual understanding  
-- Use **SMOTE** for class imbalance  
-- Integrate into a **Streamlit web app** for real-time blog classification  
-
----
-
-## 🏷️ Tags  
-`nlp` `naive-bayes` `text-classification` `sentiment-analysis` `tfidf` `textblob` `machine-learning`
-
----
-
-## 👨‍💻 Author  
-**Yash Sonone**  
-📧 yashsonone17@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/yash-sonone-0ab717248)
